@@ -1,0 +1,6 @@
+*.exe
+!/src
+!*.c
+!*/*.c
+!.gitignore
+!README
